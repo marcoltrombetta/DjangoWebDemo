@@ -3,4 +3,4 @@ from .models import Post
 
 admin.site.register(Post)
 
-# Register your models here. d
+# Register your models here. dd
